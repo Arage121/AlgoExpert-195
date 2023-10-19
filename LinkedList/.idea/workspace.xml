@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce6b8dfa-293e-42c0-8be7-ccea97675031" name="Changes" comment="" />
+    <list default="true" id="ce6b8dfa-293e-42c0-8be7-ccea97675031" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RemoveKthNodeFromEnd.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
