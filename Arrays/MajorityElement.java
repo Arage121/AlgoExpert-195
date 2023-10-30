@@ -11,7 +11,7 @@ public class MajorityElement {
             if(count > maxFreq){
                 maxFreq = count;
                 val = i;
-            }
+            } 
         }
         return val;
     }
